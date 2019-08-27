@@ -2,6 +2,9 @@
 
 * [Henrik's tech notes](README.md)
 * [Applications I use](applications-i-use.md)
+* [GPG keys and my Yubikeys](gpg-keys-and-my-yubikey.md)
+* [ZeroTier](zerotier.md)
+* [AWS notes](aws-notes.md)
 
 ## My Linux notes
 
