@@ -5,6 +5,7 @@
 * [GPG keys and my Yubikeys](gpg-keys-and-my-yubikey.md)
 * [ZeroTier](zerotier.md)
 * [AWS notes](aws-notes.md)
+* [Performing releases](performing-releases.md)
 
 ## My Linux notes
 
